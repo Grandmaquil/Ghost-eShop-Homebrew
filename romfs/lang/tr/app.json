@@ -1,19 +1,24 @@
 {
 	"3D_BANNER": "Eden for the 3D banner",
-	"3DSX_IN_FOLDER": "Put 3DSX files in folder",
-	"3DSX_IN_FOLDER_DESC": "If they are enabled, 3DSX files will be put in a folder with the same name than the last set folder",
-	"ACTION_CANCELED": "%s canceled!",
-	"ACTION_FAILED": "%s failed!",
-	"ACTION_REQUIRED": "Action required!",
-	"ACTION_SUCCEEDED": "%s succeeded!",
-	"ACTIVE_THEME": "Active Theme",
-	"ARGUMENT_INVALID": "Bağımsız değişken geçersiz.\nLütfen doğru bağımsız değişkenler için xml dosyasını kontrol edin.",
-	"ASCENDING": "Yükselen",
-	"AUTHOR": "Yazar",
-	"AUTO_UPDATE_ESHOP": "Otomatik güncelleme (eShop)",
-	"AUTO_UPDATE_ESHOP_DESC": "Bununla birlikte, son kullanılan eShop Ghost Eshop 'ı başlatırken otomatik olarak güncellenecek.",
-	"AUTO_UPDATE_GE": "Ghost eShop 'ı otomatik güncelle",
-	"AUTO_UPDATE_GE_DESC": "Ghost eShop etkinleştirildiğinde, her açıldığında güncelleme olup olmadığını denetler.",
+	"3DSX_IN_FOLDER": "3DSX dosyalarını klasöre koy",
+	"3DSX_IN_FOLDER_DESC": "Eğer izin verildiyse 3DSX dosyaları son seçilen dosya değil aynı isimdeki dosyaya konulacak",
+	"ACTION_CANCELED": "%s iptal edildi",
+	"ACTION_FAILED": "%s başarısız oldu!",
+	"ACTION_REQUIRED": "İşlem gerekiyor!",
+	"ACTION_SUCCEEDED": "%s Başarılı oldu!",
+	"ACTIVE_THEME": "Aktif tema",
+	"ARGUMENT_INVALID": "Argüman geçersiz.\nLütfen doğru Argüman için xml dosyasını kontrol edin.",
+	"ASCENDING": "Artan",
+	"AUTHOR": "Yapımcı",
+	"AUTO_UPDATE_ESHOP": "eShop'u otomatik güncelle",
+	"AUTO_UPDATE_ESHOP_DESC": "Bunun sayesinde, son kullanılan eShop Ghost eShop'u başlatırken otomatik olarak güncellenecek.",
+	"AUTO_UPDATE_GE": "Ghost eShop'u otomatik güncelle",
+	"AUTO_UPDATE_GE_DESC": "Ghost
+	
+	
+
+         
+	
 	"AUTO_UPDATE_SETTINGS": "Otomatik Güncelleme Ayarları",
 	"AUTO_UPDATE_SETTINGS_BTN": "Ayarları otomatik olarak güncelle ...",
 	"AVAILABLE_DOWNLOADS": "Kullanılabilir Yüklemeler",
@@ -27,7 +32,7 @@
 	"CHANGE_NDS_PATH": "NDS yolunu değiştir",
 	"CHANGE_SHORTCUT_PATH": "Kısayol yolunu değiştir",
 	"CHECK_ESHOP_UPDATES": "EShop güncellemeleri denetleniyor ...",
-	"CHECK_GE_UPDATES": "Ghost eShop güncellemeleri denetleniyor ...",
+	"CHECK_GE_UPDATES": "Ghost eShop güncellemeleri dentleniyor ...",
 	"CITRA_BIGN_ICON": "Simge için Citra ve Nintendo",
 	"CONFIRM_OR_CANCEL": "Onaylamak için düğmeye basın, iptal etmek için kullanın.",
 	"CONNECT_WIFI": "Lütfen WiFi 'ye bağlanın.",
